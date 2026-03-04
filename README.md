@@ -7,44 +7,44 @@ An interactive airport analytics dashboard designed to evaluate and compare oper
 
 This project analyzes airport on-time performance using key delay indicators and presents insights through an intuitive, interactive dashboard. It enables users to:
 
--Monitor average delay times
+- Monitor average delay times
 
--Compare airport performance against national averages
+- Compare airport performance against national averages
 
--Identify delay drivers by category
+- Identify delay drivers by category
 
--Explore carrier level and destinationlevel delay patterns
+- Explore carrier level and destinationlevel delay patterns
 
 
 Key Metrics Analyzed:
 
--Arrival Delay
+- Arrival Delay
 
--Carrier Delay
+- Carrier Delay
 
--Departure Delay
+- Departure Delay
 
--Late Aircraft Delay
+- Late Aircraft Delay
 
--Security Delay
+- Security Delay
 
--Weather Delay
+- Weather Delay
 
 
 Users can filter by:
 
--Delay type
+- Delay type
 
--Origin airport
+- Origin airport
 
 
 Each metric is:
 
--Displayed as an average delay time (in minutes)
+- Displayed as an average delay time (in minutes)
 
--Benchmarked against all other airports
+- Benchmarked against all other airports
 
--Converted into a performance percentage to quickly assess relative standing
+- Converted into a performance percentage to quickly assess relative standing
 
 
 Performance vs All Airports: Shows how a selected airport performs compared to the overall airport population using performance-level percentages.
