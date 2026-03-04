@@ -1,6 +1,10 @@
 # Airport_Performance_Dasboard
 An interactive airport analytics dashboard designed to evaluate and compare operational performance across U.S. airports. The dashboard provides a comprehensive view of delay metrics and benchmarks a selected airport against all other airports in the dataset. The dashboard helps uncover operational inefficiencies and highlights areas impacting overall airport performance.
 
+## Airport Dashboard Preview
+
+![Dashboard Screenshot](Airport_dashboard.png)
+
 This project analyzes airport on-time performance using key delay indicators and presents insights through an intuitive, interactive dashboard. It enables users to:
 
 -Monitor average delay times
